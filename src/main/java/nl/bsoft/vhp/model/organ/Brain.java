@@ -10,6 +10,7 @@ import java.util.Objects;
 @Setter
 public class Brain extends Organ {
     private Body body;
+    private int energieconsumption = 20; // 20 % of bodies energy consumption (at all ages???)
 
     public Brain() {
         super.setName("Brain");
@@ -21,18 +22,19 @@ public class Brain extends Organ {
         if (o == null || getClass() != o.getClass()) return false;
         if (!super.equals(o)) return false;
         Brain brain = (Brain) o;
-        return Objects.equals(body, brain.body);
+        return energieconsumption == brain.energieconsumption && Objects.equals(body, brain.body);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(super.hashCode(), body);
+        return Objects.hash(super.hashCode(), body, energieconsumption);
     }
 
     @Override
     public String toString() {
         return "Brain{" +
-                "body=" + body.getIdentification() + " " + super.toString() +
+                "body=" + body.getIdentification() +
+                ", energieconsumption=" + energieconsumption +
                 '}';
     }
 }
