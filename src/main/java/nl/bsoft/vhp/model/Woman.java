@@ -9,5 +9,10 @@ public class Woman extends Body {
     public Woman() {
         super.setKind("Woman");
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
 

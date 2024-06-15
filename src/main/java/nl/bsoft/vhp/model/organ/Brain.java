@@ -1,4 +1,4 @@
-package nl.bsoft.vhp.model;
+package nl.bsoft.vhp.model.organ;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -8,5 +8,10 @@ import lombok.Setter;
 public class Brain extends Organ {
     public Brain() {
         super.setName("Brain");
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
     }
 }

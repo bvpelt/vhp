@@ -9,4 +9,9 @@ public class Man extends Body {
     public Man() {
         super.setKind("Man");
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
