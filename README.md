@@ -40,12 +40,6 @@ The major organs in the human body are:
     Read more on: [lungs](doc/lungs.md)
   
     ![lungs >](doc/images/lungs.jpeg "lungs")
-  
-  - Pancreas: The pancreas is a gland that produces digestive enzymes and hormones, including insulin.
-
-    Read more on: [pancreas](doc/pancreas.md)
-  
-    ![pancreas >](doc/images/pancreas.jpeg "pancreas")
 
   - Skin: The skin is the largest organ of your body, accounting for about 15% of your total body weight.
 
@@ -59,8 +53,6 @@ The major organs in the human body are:
   
     ![stomach >](doc/images/stomach.jpeg "stomach")
 
-
-
 - Glands
   - Adrenal Glands: Situated on top of the kidneys, the adrenal glands produce hormones like adrenaline and cortisol, which help manage stress, regulate blood sugar levels, and control blood pressure.
 
@@ -68,6 +60,12 @@ The major organs in the human body are:
 
     ![adrenal](doc/images/adrenal.jpeg "adrenal") 
 
+  - Pancreas: The pancreas is a gland that produces digestive enzymes and hormones, including insulin.
+
+    Read more on: [pancreas](doc/pancreas.md)
+
+    ![pancreas >](doc/images/pancreas.jpeg "pancreas")
+  
   - Parathyroid Glands: These four tiny glands sit behind the thyroid gland and produce parathyroid hormone, which helps regulate calcium levels in the blood.
 
     Read more on: [parathyroid](doc/parathyroid.md)
