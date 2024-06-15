@@ -1,7 +1,8 @@
 # Intestines
 
-
 The intestines, also known as the bowels, are a long, muscular tube-like organ that plays a vital role in the digestive system. They are responsible for the final stages of digestion, where nutrients from food are absorbed into the bloodstream and waste products are prepared for elimination. Here's a breakdown of the intestines:
+
+![intestines >](images/intestines.jpeg "intestines")
 
 ## Structure
 

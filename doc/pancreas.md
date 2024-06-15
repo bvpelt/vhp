@@ -1,7 +1,8 @@
 # Pancreas
 
-
 The pancreas is a gland located behind your stomach in the upper left part of your abdomen. It plays a dual role in your body, functioning in both the digestive system and the endocrine system. Here's a closer look at the pancreas:
+
+![pancreas >](images/pancreas.jpeg "pancreas")
 
 # Structure
 

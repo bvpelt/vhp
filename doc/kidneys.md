@@ -2,6 +2,8 @@
 
 The kidneys are two bean-shaped organs that play a vital role in your urinary system, acting as your body's natural filtration system. They are about the size of your fist and sit just below your rib cage, one on either side of your spine. Here's a deeper look into their structure and function:
 
+![kidneys >](images/kidneys.jpeg "kidneys")
+
 # Structure
 
 Each kidney is made up of millions of tiny filtering units called nephrons. These nephrons are the workhorses of the kidneys, responsible for filtering waste products and excess water from your blood. The kidney also has:

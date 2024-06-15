@@ -2,6 +2,8 @@
 
 The liver is the largest and one of the most important organs in your body. It's a  complex and powerful  chemical factory located in the upper right portion of your abdomen, just below the diaphragm.  Here's a breakdown of its structure and key functions:
 
+![liver >](images/liver.jpeg "liver")
+
 # Structure
 
 The liver is a lobed organ, meaning it has multiple sections. It's covered by a capsule and receives blood from two main sources:

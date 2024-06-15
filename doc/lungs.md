@@ -2,6 +2,8 @@
 
 The lungs are two spongy, pinkish-gray organs that sit in your chest cavity, one on either side of your heart. They're fundamental to your survival, playing a starring role in respiration, the process by which your body takes in oxygen and releases carbon dioxide. Here's a breakdown of their structure and function:
 
+![lungs >](images/lungs.jpeg "lungs")
+
 ## Structure
 
 - **Windpipe (Trachea)**: This tube carries air from your nose and mouth down to your lungs.
