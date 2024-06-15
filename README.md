@@ -6,33 +6,53 @@ The major organs in the human body are:
 
 - Organs
   - Brain: The brain is the control center of the nervous system and is responsible for everything we do, from thinking and feeling to moving and breathing. 
-    read more on: [brain](doc/brain.md)
+    
+    Read more on: [brain](doc/brain.md)
 
     ![brain >](doc/images/brain.jpeg "brain")
 
   - Heart: The heart is a muscular organ that pumps blood throughout the body. It is the most important organ in the circulatory system.
-    read more on: [heart](doc/heart.md)
+    
+    Read more on: [heart](doc/heart.md)
   
     ![heart >](doc/images/heart.jpeg "heart")
-
-  - Lungs: The lungs are two spongy organs that allow us to breathe. They take in oxygen from the air and release carbon dioxide. 
    
-    ![lungs >](doc/images/lungs.jpeg "lungs")
-  - Liver: The liver is the largest organ in the body and is responsible for many important functions, including filtering blood, storing nutrients, and producing bile. 
-  
-    ![liver >](doc/images/liver.jpeg "liver")
-  - Kidneys: The kidneys are two bean-shaped organs that filter waste products from the blood and produce urine. 
+  - Intestines: The intestines are long, tube-shaped organs that absorb nutrients from food into the bloodstream.
+
+    Read more on: [intestines](doc/intestines.md)
+
+    ![intestines >](doc/images/intestines.jpeg "intestines")
+
+  - Kidneys: The kidneys are two bean-shaped organs that filter waste products from the blood and produce urine.
+
+    Read more on: [kidneys](doc/kidneys.md)
 
     ![kidneys >](doc/images/kidneys.jpeg "kidneys")
+  
+  - Liver: The liver is the largest organ in the body and is responsible for many important functions, including filtering blood, storing nutrients, and producing bile.
+
+    Read more on: [liver](doc/liver.md)
+   
+    ![liver >](doc/images/liver.jpeg "liver")
+  
+  - Lungs: The lungs are two spongy organs that allow us to breathe. They take in oxygen from the air and release carbon dioxide. 
+   
+    Read more on: [lungs](doc/lungs.md)
+  
+    ![lungs >](doc/images/lungs.jpeg "lungs")
+  
+  - Pancreas: The pancreas is a gland that produces digestive enzymes and hormones, including insulin.
+
+    Read more on: [pancreas](doc/pancreas.md)
+  
+    ![pancreas >](doc/images/pancreas.jpeg "pancreas")
+  
   - Stomach: The stomach is a muscular sac that breaks down food into a liquid mixture called chyme. 
    
     ![stomach >](doc/images/stomach.jpeg "stomach")
-  - Intestines: The intestines are long, tube-shaped organs that absorb nutrients from food into the bloodstream. 
-    
-    ![intestines >](doc/images/intestines.jpeg "intestines")
-  - Pancreas: The pancreas is a gland that produces digestive enzymes and hormones, including insulin. 
 
-    ![pancreas >](doc/images/pancreas.jpeg "pancreas")
+
+
 - Glands
   - Thyroid Gland: Located in the front of the neck, the thyroid gland is shaped like a butterfly and produces hormones that regulate metabolism, growth, and development. ![thyroid](doc/images/thyroid.jpeg "thyroid") 
   - Parathyroid Glands: These four tiny glands sit behind the thyroid gland and produce parathyroid hormone, which helps regulate calcium levels in the blood. ![parathyroid](doc/images/parathyroid.jpeg "parathyroid") 

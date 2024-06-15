@@ -6,13 +6,17 @@ The brain is made up of billions of nerve cells, or neurons, that are connected 
 
 
 
-- Forebrain: The forebrain is the largest part of the brain and is responsible for higher functions such as thinking, planning, and problem-solving. It also includes the cerebral cortex, which is the outermost layer of the brain and is responsible for consciousness, memory, and sensory perception. 
+## Forebrain
+The forebrain is the largest part of the brain and is responsible for higher functions such as thinking, planning, and problem-solving. It also includes the cerebral cortex, which is the outermost layer of the brain and is responsible for consciousness, memory, and sensory perception. 
 
   ![forebrain >](images/forebrain.jpeg "forebrain")
-- Midbrain: The midbrain is a small region of the brain that connects the forebrain to the hindbrain. It is responsible for relaying sensory and motor information, as well as for controlling basic functions such as sleep and wakefulness.  
+
+## Midbrain
+The midbrain is a small region of the brain that connects the forebrain to the hindbrain. It is responsible for relaying sensory and motor information, as well as for controlling basic functions such as sleep and wakefulness.  
   
   ![midbrain >](images/midbrain.jpeg "midbrain")
-- Hindbrain: The hindbrain is the most posterior part of the brain and is responsible for basic bodily functions such as breathing, heart rate, and digestion. It also includes the cerebellum, which is responsible for coordination and balance.  
+## Hindbrain
+The hindbrain is the most posterior part of the brain and is responsible for basic bodily functions such as breathing, heart rate, and digestion. It also includes the cerebellum, which is responsible for coordination and balance.  
 
   ![hindbrain >](images/hindbrain.jpeg "hindbrain")
 
