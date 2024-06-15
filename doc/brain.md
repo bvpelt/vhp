@@ -1,3 +1,5 @@
+# Brain
+
 The brain is the control center of the nervous system and is responsible for everything we do, from thinking and feeling to moving and breathing.
 It is the control center of the nervous system and receives information from the body through the senses. The brain then processes this information and sends messages back to the body telling it what to do.
 The brain is made up of billions of nerve cells, or neurons, that are connected to each other by trillions of synapses. These connections allow the brain to transmit information throughout the body at very high speeds.  The brain can be divided into three main parts:
