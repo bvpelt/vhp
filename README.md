@@ -2,9 +2,12 @@
 Virtual Human Project
 
 
-The major organs in the human body are:
+A body is made up of organs and glands. The key difference between organs and glands: All glands are organs, but not all organs are glands.  Every gland has the characteristics of an organ (made of tissues, performs a function), but it also has the extra ability to produce and secrete substances.
 
 - Organs
+
+    **Organ**: An organ is a self-contained structure made up of different tissues that work together to perform a specific function.  Think of them as complex units within your body, each with a specialized job. Examples include the heart (pumps blood), lungs (gas exchange), and stomach (breaks down food).
+- 
   - Brain: The brain is the control center of the nervous system and is responsible for everything we do, from thinking and feeling to moving and breathing. 
     
     Read more on: [brain](doc/brain.md)
@@ -54,6 +57,9 @@ The major organs in the human body are:
     ![stomach >](doc/images/stomach.jpeg "stomach")
 
 - Glands
+  
+  **Gland**: A gland is a specialized type of organ that produces and releases substances, like hormones or enzymes. These substances can travel through ducts to specific locations (exocrine glands) or directly into the bloodstream (endocrine glands) to influence other parts of the body. Examples include the thyroid gland (produces hormones for growth and metabolism) and sweat glands (release sweat to regulate body temperature).
+
   - Adrenal Glands: Situated on top of the kidneys, the adrenal glands produce hormones like adrenaline and cortisol, which help manage stress, regulate blood sugar levels, and control blood pressure.
 
     Read more on: [adrenal](doc/adrenal.md)
