@@ -23,3 +23,8 @@ significant variations)
 | Pancreas   | 	144	                         | 122                              |
 | Right Lung | 	663                          | 	546                             |
 | Left Lung  | 	624	                         | 488                              |
+
+## Resources for further exploration
+
+- This article discusses factors affecting organ weight and provides some reference ranges: [Verywell Health - How Much Do Your Organs Weigh](https://www.verywellhealth.com/how-much-do-your-organs-weigh-4105246)
+- This research paper provides a detailed analysis of organ weight in autopsies: [PubMed - Normal organ weights in men: part II-the brain, lungs, liver, spleen, and kidneys](https://pubmed.ncbi.nlm.nih.gov/22182984)
