@@ -1,8 +1,7 @@
-package nl.bsoft.vhp.model.gland;
+package nl.bsoft.vhp.model.organ.gland;
 
 import lombok.Getter;
 import lombok.Setter;
-import nl.bsoft.vhp.model.organ.Organ;
 
 @Getter
 @Setter

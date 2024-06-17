@@ -2,8 +2,9 @@ package nl.bsoft.vhp.model;
 
 import lombok.Getter;
 import lombok.Setter;
-import nl.bsoft.vhp.model.gland.*;
+
 import nl.bsoft.vhp.model.organ.*;
+import nl.bsoft.vhp.model.organ.gland.*;
 
 import java.util.HashSet;
 import java.util.Objects;
@@ -16,10 +17,14 @@ public class Body {
     private Long identification;
     private String kind;
     private Set<Organ> organSet = new HashSet<Organ>();
+    private Skeleton skeleton;
+    private Muscles muscles;
 
     public Body() {
         Random r = new Random();
         this.identification = r.nextLong();
+        skeleton = new Skeleton();
+        muscles = new Muscles();
         // Organs
         Brain brain = new Brain();
         brain.setBody(this);
@@ -46,12 +51,12 @@ public class Body {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Body body = (Body) o;
-        return Objects.equals(identification, body.identification) && Objects.equals(kind, body.kind) && Objects.equals(organSet, body.organSet);
+        return Objects.equals(identification, body.identification) && Objects.equals(kind, body.kind) && Objects.equals(organSet, body.organSet) && Objects.equals(skeleton, body.skeleton) && Objects.equals(muscles, body.muscles);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(identification, kind, organSet);
+        return Objects.hash(identification, kind, organSet, skeleton, muscles);
     }
 
     @Override
@@ -60,6 +65,8 @@ public class Body {
                 "identification=" + identification +
                 ", kind='" + kind + '\'' +
                 ", organSet=" + organSet +
+                ", skeleton=" + skeleton +
+                ", muscles=" + muscles +
                 '}';
     }
 }

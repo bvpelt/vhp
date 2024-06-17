@@ -1,4 +1,4 @@
-package nl.bsoft.vhp.model.gland;
+package nl.bsoft.vhp.model.organ.gland;
 
 import nl.bsoft.vhp.model.organ.Organ;
 

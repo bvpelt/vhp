@@ -1,4 +1,4 @@
-package nl.bsoft.vhp.model.gland;
+package nl.bsoft.vhp.model.organ.gland;
 
 public class Pineal extends Gland {
     public Pineal() {

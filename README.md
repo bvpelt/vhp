@@ -4,6 +4,11 @@ Virtual Human Project
 
 A body is made up of organs and glands. The key difference between organs and glands: All glands are organs, but not all organs are glands.  Every gland has the characteristics of an organ (made of tissues, performs a function), but it also has the extra ability to produce and secrete substances.
 
+- Skeleton
+  Read more on: [skeleton](doc/skeleton.md)
+
+  ![skeleton >](doc/images/skeleton.jpeg "skeleton")
+
 - Organs
 
     **Organ**: An organ is a self-contained structure made up of different tissues that work together to perform a specific function.  Think of them as complex units within your body, each with a specialized job. Examples include the heart (pumps blood), lungs (gas exchange), and stomach (breaks down food).
