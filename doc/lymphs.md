@@ -14,7 +14,10 @@ a clear fluid called lymph throughout the body. The lymph is a clear fluid conta
 
 - **Lymph Vessels**: These are thin-walled tubes that carry lymph throughout the body. 
 
-  ![lymph vessels >](images/lymphvessels.jpeg "lymph vessels")
+  ![lymph vessels >](images/lymphvessels.jpeg "lymph vessels") 
+  
+  [Source](https://nci-media.cancer.gov/pdq/media/images/661751.jpg)
+
 
   They are similar to blood vessels but have a less structured organization.
   Lymph vessels can be classified into:
@@ -36,15 +39,15 @@ a clear fluid called lymph throughout the body. The lymph is a clear fluid conta
 - **Lymphatic Organs**: These include the spleen, thymus, and tonsils. Each organ plays a unique role in the immune system:
 
   - **Spleen**: Filters blood, removes damaged cells, and produces immune cells.
-  - 
+   
     ![Spleen >](images/spleen.jpeg "Spleen")
   
   - **Thymus**: Plays a critical role in the development of T cells, a type of white blood cell crucial for cell-mediated immunity.
-  - 
+  
     ![Thymus >](images/thymus.png "Thymus")
   
   - **Tonsils**: Located at the back of the throat, they trap and fight off pathogens entering through the mouth and nose.
-  - 
+   
     ![Tonsils >](images/toncils.jpeg "Tonsils")
 
 - **Lymph**: This is the clear fluid that flows through the lymph vessels and nodes. It contains water, electrolytes, proteins, and white blood cells. Lymph is constantly being filtered and cleaned as it passes through lymph nodes.
@@ -83,7 +86,7 @@ The lymph fluid doesn't drain into a single point like the circulatory system. I
 - **Right lymphatic duct**: This duct collects lymph fluid from the right arm, head, and neck. It drains into the right subclavian vein near the collarbone.
 - **Thoracic duct**: This is the larger of the two ducts and collects lymph fluid from the rest of the body, including the left arm, chest, abdomen, and legs. It also drains into the left subclavian vein near the collarbone.
 
-- Here's a breakdown of the drainage pathway for the lymph fluid:
+Here's a breakdown of the drainage pathway for the lymph fluid:
 
 - **Lymph capillaries**: Microscopic vessels in tissues collect excess fluid and cellular debris, forming lymph fluid.
 - **Lymph vessels**: Lymph fluid flows through a network of progressively larger vessels throughout the body.
