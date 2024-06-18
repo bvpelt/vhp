@@ -29,6 +29,8 @@ a clear fluid called lymph throughout the body. The lymph is a clear fluid conta
     - Lymph vessels contain valves that prevent lymph from flowing backward.
     
     ![Lymph vessel capillaries >](images/lymphvesselcapillaries.jpeg "Lymph vessel capillaries")
+
+    [Source](https://www.buddiesforlife.co.za/wp-content/uploads/2018/08/lymph-capillaries-in-tissue-spaces.jpg)
   
   - **Lymphatic ducts**: The largest vessels that drain lymph into the bloodstream.
 
