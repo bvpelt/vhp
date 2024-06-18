@@ -7,7 +7,9 @@ import lombok.Setter;
 @Setter
 public class Skin extends Organ {
     public Skin() {
-        super.setName("Skin");
+
+        setName("Skin");
+        setType("skin");
     }
 
     @Override

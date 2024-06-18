@@ -6,44 +6,42 @@ import lombok.Setter;
 import nl.bsoft.vhp.model.organ.*;
 import nl.bsoft.vhp.model.organ.gland.*;
 
-import java.util.HashSet;
-import java.util.Objects;
-import java.util.Random;
-import java.util.Set;
+import java.util.*;
+import java.util.stream.Collectors;
 
 @Getter
 @Setter
 public class Body {
     private Long identification;
     private String kind;
-    private Set<Organ> organSet = new HashSet<Organ>();
-    private Skeleton skeleton;
-    private Muscles muscles;
+    private Set<BodyPart> bodyParts = new HashSet<BodyPart>();
 
     public Body() {
         Random r = new Random();
         this.identification = r.nextLong();
-        skeleton = new Skeleton();
-        muscles = new Muscles();
+
+        bodyParts.add(new Skeleton());
+        bodyParts.add(new Muscles());
+        bodyParts.add(new Vessel());
         // Organs
         Brain brain = new Brain();
         brain.setBody(this);
-        organSet.add(brain);
-        organSet.add(new Heart());
-        organSet.add(new Intestines());
-        organSet.add(new Kidneys());
-        organSet.add(new Liver());
-        organSet.add(new Lungs());
-        organSet.add(new Skin());
-        organSet.add(new Stomach());
+        bodyParts.add(brain);
+        bodyParts.add(new Heart());
+        bodyParts.add(new Intestines());
+        bodyParts.add(new Kidneys());
+        bodyParts.add(new Liver());
+        bodyParts.add(new Lungs());
+        bodyParts.add(new Skin());
+        bodyParts.add(new Stomach());
         // Glands
-        organSet.add(new Adrenal());
-        organSet.add(new Pancreas());
-        organSet.add(new Parathyroid());
-        organSet.add(new Pineal());
-        organSet.add(new Pituitary());
-        organSet.add(new Thymus());
-        organSet.add(new Thyroid());
+        bodyParts.add(new Adrenal());
+        bodyParts.add(new Pancreas());
+        bodyParts.add(new Parathyroid());
+        bodyParts.add(new Pineal());
+        bodyParts.add(new Pituitary());
+        bodyParts.add(new Thymus());
+        bodyParts.add(new Thyroid());
     }
 
     @Override
@@ -51,12 +49,12 @@ public class Body {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Body body = (Body) o;
-        return Objects.equals(identification, body.identification) && Objects.equals(kind, body.kind) && Objects.equals(organSet, body.organSet) && Objects.equals(skeleton, body.skeleton) && Objects.equals(muscles, body.muscles);
+        return Objects.equals(identification, body.identification) && Objects.equals(kind, body.kind) && Objects.equals(bodyParts, body.bodyParts);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(identification, kind, organSet, skeleton, muscles);
+        return Objects.hash(identification, kind, bodyParts);
     }
 
     @Override
@@ -64,9 +62,9 @@ public class Body {
         return "Body{" +
                 "identification=" + identification +
                 ", kind='" + kind + '\'' +
-                ", organSet=" + organSet +
-                ", skeleton=" + skeleton +
-                ", muscles=" + muscles +
+                ", bodyParts=" + bodyParts.stream()
+                                    .sorted(Comparator.comparing(BodyPart::getName)).toList()
+                +
                 '}';
     }
 }

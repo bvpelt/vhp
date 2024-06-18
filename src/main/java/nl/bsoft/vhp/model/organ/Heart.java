@@ -12,7 +12,8 @@ public class Heart extends Organ {
     private int resthaertbeat_max = 100;  // average max heart rate in beats/minute for adult in rest
 
     public Heart() {
-        super.setName("Heart");
+        setName("Heart");
+        setType("heart");
     }
 
     @Override
@@ -31,9 +32,12 @@ public class Heart extends Organ {
 
     @Override
     public String toString() {
-        return "Heart{" +
+        String general = super.toString()
+                + " Heart{" +
                 "resthaertbeat_min=" + resthaertbeat_min +
                 ", resthaertbeat_max=" + resthaertbeat_max +
-                '}';
+                '}' ;
+
+        return general;
     }
 }

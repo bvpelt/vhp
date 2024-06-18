@@ -2,6 +2,7 @@ package nl.bsoft.vhp.model.organ;
 
 import lombok.Getter;
 import lombok.Setter;
+import nl.bsoft.vhp.model.BodyPart;
 
 import java.util.Objects;
 
@@ -16,26 +17,6 @@ The following Organs exists for a human
  */
 @Getter
 @Setter
-public class Organ {
-    private String name;
+public class Organ extends BodyPart {
 
-    @Override
-    public String toString() {
-        return "Organ{" +
-                "name='" + name + '\'' +
-                '}';
-    }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Organ organ = (Organ) o;
-        return Objects.equals(name, organ.name);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hashCode(name);
-    }
 }

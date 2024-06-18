@@ -2,7 +2,9 @@ package nl.bsoft.vhp.model.organ.gland;
 
 public class Pineal extends Gland {
     public Pineal() {
-        super.setName("Pineal");
+
+        setName("Pineal");
+        setType("pineal");
     }
 
     @Override

@@ -13,7 +13,8 @@ public class Brain extends Organ {
     private int energieconsumption = 20; // 20 % of bodies energy consumption (at all ages???)
 
     public Brain() {
-        super.setName("Brain");
+        setName("Brain");
+        setType("brain");
     }
 
     @Override
@@ -32,9 +33,12 @@ public class Brain extends Organ {
 
     @Override
     public String toString() {
-        return "Brain{" +
+        String general = super.toString()
+                + " Brain{" +
                 "body=" + body.getIdentification() +
                 ", energieconsumption=" + energieconsumption +
                 '}';
+
+        return general;
     }
 }

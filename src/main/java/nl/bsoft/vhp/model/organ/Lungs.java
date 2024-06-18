@@ -7,7 +7,8 @@ import lombok.Setter;
 @Setter
 public class Lungs extends Organ {
     public Lungs() {
-        super.setName("Lungs");
+        setName("Lungs");
+        setType("lungs");
     }
 
     @Override

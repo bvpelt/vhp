@@ -7,7 +7,8 @@ import lombok.Setter;
 @Setter
 public class Pancreas extends Gland {
     public Pancreas() {
-        super.setName("Pancreas");
+        setName("Pancreas");
+        setType("pancreas");
     }
 
     @Override

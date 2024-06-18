@@ -7,11 +7,11 @@ import java.util.Objects;
 
 @Getter
 @Setter
-public class Muscles extends BodyPart {
+public class Vessel extends BodyPart {
 
-    public Muscles() {
-        setName("Muscles");
-        setType("muscles");
+    public Vessel() {
+        setName("Blood vessel");
+        setType("blood vessel");
     }
 
 }
