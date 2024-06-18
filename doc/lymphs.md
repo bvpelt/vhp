@@ -16,7 +16,7 @@ a clear fluid called lymph throughout the body. The lymph is a clear fluid conta
 
   ![lymph vessels >](images/lymphvessels.jpeg "lymph vessels") 
   
-  [Source](https://nci-media.cancer.gov/pdq/media/images/661751.jpg)
+  [Source](https://nci-media.cancer.gov/pdq/media/images/661751.jpg "lymph vessels")
 
 
   They are similar to blood vessels but have a less structured organization.
@@ -30,7 +30,7 @@ a clear fluid called lymph throughout the body. The lymph is a clear fluid conta
     
     ![Lymph vessel capillaries >](images/lymphvesselcapillaries.jpeg "Lymph vessel capillaries")
 
-    [Source](https://www.buddiesforlife.co.za/wp-content/uploads/2018/08/lymph-capillaries-in-tissue-spaces.jpg)
+    [Source](https://www.buddiesforlife.co.za/wp-content/uploads/2018/08/lymph-capillaries-in-tissue-spaces.jpg "Lymph vessel capillaries")
   
   - **Lymphatic ducts**: The largest vessels that drain lymph into the bloodstream.
 
@@ -38,19 +38,27 @@ a clear fluid called lymph throughout the body. The lymph is a clear fluid conta
 
   ![lymph nodes >](images/lymphnodes.jpeg "lymph nodes")
 
+  [Source](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/23131-lymph-nodes "lymph nodes")
+
 - **Lymphatic Organs**: These include the spleen, thymus, and tonsils. Each organ plays a unique role in the immune system:
 
   - **Spleen**: Filters blood, removes damaged cells, and produces immune cells.
    
     ![Spleen >](images/spleen.jpeg "Spleen")
+
+    [Source](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21567-spleen "Spleen")
   
   - **Thymus**: Plays a critical role in the development of T cells, a type of white blood cell crucial for cell-mediated immunity.
   
     ![Thymus >](images/thymus.png "Thymus")
+
+     [Source](https://en.wikipedia.org/wiki/Thymus#/media/File:Diagram_showing_the_position_of_the_thymus_gland_CRUK_362.svg "Thymus")
   
   - **Tonsils**: Located at the back of the throat, they trap and fight off pathogens entering through the mouth and nose.
    
     ![Tonsils >](images/toncils.jpeg "Tonsils")
+  
+    [Source](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21146-tonsillitis "Tonsils")
 
 - **Lymph**: This is the clear fluid that flows through the lymph vessels and nodes. It contains water, electrolytes, proteins, and white blood cells. Lymph is constantly being filtered and cleaned as it passes through lymph nodes.
 
