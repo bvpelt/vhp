@@ -36,7 +36,7 @@ public class Heart extends Organ {
                 + " Heart{" +
                 "resthaertbeat_min=" + resthaertbeat_min +
                 ", resthaertbeat_max=" + resthaertbeat_max +
-                '}' ;
+                '}';
 
         return general;
     }

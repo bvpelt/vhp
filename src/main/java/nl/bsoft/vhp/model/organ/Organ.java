@@ -4,8 +4,6 @@ import lombok.Getter;
 import lombok.Setter;
 import nl.bsoft.vhp.model.BodyPart;
 
-import java.util.Objects;
-
 /*
 The following Organs exists for a human
 - Hearth

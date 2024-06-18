@@ -15,24 +15,24 @@ import org.springframework.util.Assert;
 @SpringBootTest
 class VhpApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
-	@Test
-	@Order(1)
-	void test01() {
-		Man man  = new Man();
-		Man man1  = new Man();
-		Woman woman = new Woman();
+    @Test
+    @Order(1)
+    void test01() {
+        Man man = new Man();
+        Man man1 = new Man();
+        Woman woman = new Woman();
 
-		log.info("man: {}", man);
-		log.info("man1: {}", man1);
-		log.info("woman: {}", woman);
+        log.info("man: {}", man);
+        log.info("man1: {}", man1);
+        log.info("woman: {}", woman);
 
-		Assert.notNull(man, "man is null");
-		Assert.notNull(woman, "woman is null");
-		Assert.isTrue(!man.equals(man1), "man equals man1");
-	}
+        Assert.notNull(man, "man is null");
+        Assert.notNull(woman, "woman is null");
+        Assert.isTrue(!man.equals(man1), "man equals man1");
+    }
 
 }

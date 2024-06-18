@@ -2,12 +2,10 @@ package nl.bsoft.vhp.model;
 
 import lombok.Getter;
 import lombok.Setter;
-
 import nl.bsoft.vhp.model.organ.*;
 import nl.bsoft.vhp.model.organ.gland.*;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 @Getter
 @Setter
@@ -20,8 +18,9 @@ public class Body {
         Random r = new Random();
         this.identification = r.nextLong();
 
-        bodyParts.add(new Skeleton());
+        bodyParts.add(new Lymph());
         bodyParts.add(new Muscles());
+        bodyParts.add(new Skeleton());
         bodyParts.add(new Vessel());
         // Organs
         Brain brain = new Brain();
@@ -63,8 +62,7 @@ public class Body {
                 "identification=" + identification +
                 ", kind='" + kind + '\'' +
                 ", bodyParts=" + bodyParts.stream()
-                                    .sorted(Comparator.comparing(BodyPart::getName)).toList()
-                +
+                .sorted(Comparator.comparing(BodyPart::getName)).toList() +
                 '}';
     }
 }
