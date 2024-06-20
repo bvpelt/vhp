@@ -1,7 +1,7 @@
 # Cell
 The human cell is indeed the smallest living part of a human being.
 
-![lymph human cell >](images/humancell.jpeg "human cell")
+![human cell >](images/humancell.jpeg "human cell")
 
 Here's why a cell is considered the smallest living unit:
 

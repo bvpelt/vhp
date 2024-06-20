@@ -3,6 +3,14 @@ Virtual Human Project
 
 
 A body is made up of organs and glands. The key difference between organs and glands: All glands are organs, but not all organs are glands.  Every gland has the characteristics of an organ (made of tissues, performs a function), but it also has the extra ability to produce and secrete substances.
+Each component is made up of cells.
+
+- Cell
+  The base component of each part in a body.
+
+  Read more on: [cells](doc/cell.md)
+
+  ![human cell >](doc/images/humancell.jpeg "human cell")
 
 - Blood vessels
   Read more on: [blood vessels](doc/bloodvessels.md)
