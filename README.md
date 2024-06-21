@@ -13,7 +13,10 @@ Each component is made up of cells.
   ![human cell >](doc/images/humancell.jpeg "human cell")
 
 - Blood vessels
-  Read more on: [blood vessels](doc/bloodvessels.md)
+ 
+  Are used to transport [blood](doc/blood.md)
+
+  Read more on: [blood vessels](doc/bloodvessels.md) 
 
   ![vessels >](doc/images/artiries.jpeg "vessels")
 
