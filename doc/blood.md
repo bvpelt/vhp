@@ -7,6 +7,8 @@ Blood is a vital tissue that circulates throughout your body, delivering oxygen,
 - **Plasma**: This is the liquid portion of blood, making up about 55% of its volume. It's a straw-colored fluid composed mostly of water (around 92%) and containing dissolved proteins, hormones, electrolytes, and nutrients like glucose (sugar).
   
   ![Plasma >](images/plasma.jpeg "Plasma")
+ 
+  Read more on [plasma](plasma.md)
 
   Plasma also contains dissolved substances like:
 
