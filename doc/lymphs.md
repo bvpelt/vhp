@@ -60,7 +60,7 @@ a clear fluid called lymph throughout the body. The lymph is a clear fluid conta
   
     [Source](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21146-tonsillitis "Tonsils")
 
-- **Lymph**: This is the clear fluid that flows through the lymph vessels and nodes. It contains water, electrolytes, proteins, and white blood cells. Lymph is constantly being filtered and cleaned as it passes through lymph nodes.
+- **[Lymph](https://en.wikipedia.org/wiki/Lymph)**: This is the clear fluid that flows through the lymph vessels and nodes. It contains water, electrolytes, proteins, and white blood cells. Lymph is constantly being filtered and cleaned as it passes through lymph nodes.
 
 - **Cisterna Chyli**: This is a large lymph vessel located in the abdomen that collects lymph from the digestive system and lower body.
 
